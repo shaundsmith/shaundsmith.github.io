@@ -1,0 +1,19 @@
+{
+  "name": "shaundsmith.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Shaun Smith",
+  "private": true,
+  "scripts": {
+    "gh-publish": "node gh-publish.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaundsmith/shaundsmith.github.io.git"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "gh-pages": "^3.1.0"
+  }
+}
