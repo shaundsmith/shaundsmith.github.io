@@ -1,11 +1,11 @@
 const ghPages = require("gh-pages"),
     fs = require("fs-extra");
 
-const copyStatic = fs.copy("./static/", "./dist/static/"),
-    copyCname = fs.copy("./CNAME", "./dist/CNAME");
+const copyStatic = fs.copy("./static/", "./build/static/"),
+    copyCname = fs.copy("./CNAME", "./build/CNAME");
 Promise.all([copyStatic, copyCname])
     .then(() => {
-        ghPages.publish("dist", error => {
+        ghPages.publish("build", error => {
             error && console.error(error);
         });
     })
