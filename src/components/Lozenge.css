@@ -1,0 +1,8 @@
+.lozenge {
+    background-color: #356494;
+    color: #FFF;
+    padding: 2px 15px;
+    border-radius: 5px 15px;
+    margin-right: 5px;
+    font-weight: 300;
+}
