@@ -7,9 +7,16 @@ export default {
     icon: "cubes",
     items: [
         {
+            title: "BJSS",
+            description: (<>
+                <Role from={"2022"} to={"Present"}>Software Engineer</Role>
+                <RoleDescription description={""} tags={[]} items={[]}/>
+                </>)
+        },
+        {
             title: "OCLC | Worldshare Circulation",
             description: (<>
-                <Role from={"2021"} to={"Present"}>Senior Software Engineer</Role>
+                <Role from={"2021"} to={"2022"}>Senior Software Engineer</Role>
                 <Role from={"2018"} to={"2021"}>Software Engineer</Role>
                 <RoleDescription
                     description={<>
