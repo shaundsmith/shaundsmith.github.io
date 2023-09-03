@@ -2,3 +2,8 @@
     display: block;
     margin: 5px 0;
 }
+
+.tags > .lozenge {
+    display: inline-block;
+    margin: 2px 2px;
+}

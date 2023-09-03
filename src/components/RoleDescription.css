@@ -1,6 +1,9 @@
-.role-description {
-    text-align: justify;
+@media (min-width: 800px) {
+    .role-description {
+        text-align: justify;
+    }
 }
+
 
 .role-description strong {
     font-weight: 600;

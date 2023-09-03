@@ -12,7 +12,7 @@ function App() {
             personalData={{
                 name: "Shaun Smith",
                 image: "/shaun-256.png",
-                title: "Senior Software Engineer",
+                title: "Tech Lead & Senior Software Engineer",
                 contacts: [
                     {type: "email", value: "shaundsmith3@gmail.com"},
                     {type: "location", value: " Mansfield, UK"},
