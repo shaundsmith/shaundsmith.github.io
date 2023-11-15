@@ -14,7 +14,7 @@ export default {
                 <RoleDescription description={""} tags={[
                     "Java", "Spring Boot", "JavaScript", "Azure", "SQL", "GraphQL", "Microservices", "Microfrontends"
                 ]} items={[
-                    <>Worked on 4 separate projects for a multi-billion pound major UK healthcare provider, including acting as tech lead for three of the projects. There was a lot of overlap between the projects, so <strong>time management</strong> was critical to success.</>,
+                    <>Worked on 5 separate teams for a multi-billion pound major UK healthcare provider, including acting as tech lead for four of the teams. There was a lot of overlap between managing the teams, so <strong>time management</strong> was critical to success.</>,
                     <>Led a small team of 4 developers to deliver a batch reporting system for the client using <strong>Spring Boot</strong>, <strong>JPA</strong>, and <strong>GraphQL</strong> on the <strong>Azure</strong> platform. It was a business-critical piece of functionality for the client and we were able to deliver it in eight months, despite a previous consultancy company failing to deliver after two years’ worth of work.</>,
                     <>Led a small team of two developers to produce an asynchronous messaging solution using <strong>Azure event grids</strong>. The team was able to deliver and received an award for the quick and decisive solution.</>,
                     <>Led a team of 6 developers to produce core features in a <strong>microservice</strong> and <strong>microfrontend-based</strong> system using <strong>GraphQL</strong>, <strong>VueJS</strong>, and <strong>Spring Boot</strong>.</>
