@@ -15,7 +15,7 @@ function App() {
                 title: "Tech Lead & Senior Software Engineer",
                 contacts: [
                     {type: "email", value: "shaundsmith3@gmail.com"},
-                    {type: "location", value: " Mansfield, UK"},
+                    {type: "location", value: " Sheffield, UK"},
                     {type: "website", value: "https://shaundsmith.dev/"},
                     {type: "github", value: "https://github.com/shaundsmith/"},
                 ]
