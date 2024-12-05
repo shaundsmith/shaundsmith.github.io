@@ -7,9 +7,20 @@ export default {
     icon: "cubes",
     items: [
         {
+            title: "Twinstream",
+            description: (<>
+                <Role from={"2024"} to={"Present"}>Software Engineer</Role>
+                <RoleDescription description={""} tags={[
+                    "Java", "Spring Boot", "Ansible", "Kubernetes", "Terraform"
+                ]} items={[
+                    <></>
+                ]}/>
+            </>)
+        },
+        {
             title: "BJSS | Programme for major UK healthcare provider",
             description: (<>
-                <Role from={"2022"} to={"Present"}>Tech Lead</Role>
+                <Role from={"2022"} to={"2024"}>Tech Lead</Role>
                 <Role from={"2022"} to={"2022"}>Senior Software Engineer</Role>
                 <RoleDescription description={""} tags={[
                     "Java", "Spring Boot", "JavaScript", "Azure", "SQL", "GraphQL", "Microservices", "Microfrontends"
